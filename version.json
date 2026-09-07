@@ -1,6 +1,6 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.28",
   "download_url": "https://github.com/phamh681/text-to-voice-studio/releases/latest",
   "changelog": "- Dau link repo that + ho tro ep cap nhat",
-  "force_update": true
+  "force_update": false
 }
