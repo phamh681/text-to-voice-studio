@@ -1,0 +1,10 @@
+{
+  "donate": {
+    "qr_url": "https://img.vietqr.io/image/MSB-80000597963-compact.png?addInfo=%E1%BB%A7ng%20h%E1%BB%99%20%E1%BB%A9ng%20d%E1%BB%A5ng%20ph%C3%A1t%20tri%E1%BB%83n"
+  },
+  "suggest": {
+    "enabled": false, "title_vi": "", "desc_vi": "", "desc_en": "",
+    "button_vi": "Xem thử", "button_en": "View", "url": "", "image_url": ""
+  },
+  "smartlink": { "enabled": false, "url": "", "renders_per_open": 2 }
+}
