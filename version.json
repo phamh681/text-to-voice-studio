@@ -1,6 +1,6 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "download_url": "https://github.com/phamh681/text-to-voice-studio/releases/latest",
-  "changelog": "- Dau link repo that + ho tro ep cap nhat",
+  "changelog": "- Nut Xem thu bam duoc khi dang render (ham luong VieNeu, chong don, bao nhan nut)",
   "force_update": false
 }
