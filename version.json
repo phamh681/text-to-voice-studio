@@ -1,6 +1,6 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.33",
   "download_url": "https://github.com/phamh681/text-to-voice-studio/releases/latest",
-  "changelog": "- Mo app khong tu nap file cu, bang file luon trang",
+  "changelog": "- Cai la chay ngay: model dong goi san, khong can mang lan dau",
   "force_update": false
 }
