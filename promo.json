@@ -13,7 +13,7 @@
     "image_url": ""
   },
   "smartlink": {
-    "enabled": true,
+    "enabled": false,
     "url": "https://phimcuon.com",
     "renders_per_open": 2
   }
